@@ -1,8 +1,10 @@
-On branch master
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
 
-Initial commit
 
-Untracked files:
-	readme
 
-nothing added to commit but untracked files present
+
+
+
+
+
